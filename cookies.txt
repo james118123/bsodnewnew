@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dolphin-app-3ho2c.ondigitalocean.app	TRUE	/	FALSE	1999999999	__cf_bm	U8V_Mskb_fnfeMd1hBk9Ts3O7K8bvpVad2R19i_MaYw-1791363210.3235974-1.0.1.1-CZ3a37dJQw_k6Lz93Z5IR1JfPk3NiifowsRMc8wFn0V8PoKJpZ9iIM.FcN3Ran9Y6RHPn7XwmJxp7fzfjplOY9AxUFNmat_x022tg_L5pdz7pgSBk0AhWUHMcyCWDnib
+ondigitalocean.app	TRUE	/	FALSE	1999999999	SameSite	None
+
